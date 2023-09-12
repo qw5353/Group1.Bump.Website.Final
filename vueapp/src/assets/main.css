@@ -1,0 +1,28 @@
+html,
+body {
+    margin: 0;
+}
+
+
+
+::-webkit-scrollbar {
+    height: 3px;
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(#E6A947 40%, #D68924);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #e5e5e5;
+    border-radius: 8px;
+}
+
+@media (min-width: 1920px) {
+    .zy-container {
+        max-width: 700px !important;
+        height: calc(100vh - 66px);
+    }
+}

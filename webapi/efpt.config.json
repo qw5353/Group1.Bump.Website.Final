@@ -1,0 +1,304 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "BumpContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "webapi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Activities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityCoupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityDiscounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BanDates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Brands]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CartDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CartHistories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Carts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Coaches]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ContactUs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Conversation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Coupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CouponSendＭembers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CouponTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Dealers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DiscountTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DMs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EventTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExperienceCoursePlans]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExperienceEnrollments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Fields]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FirstCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Freebies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberLevelDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberLevelDetails_Histories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberLevelOfActivityDiscounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberLevelOfCoupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberLevels]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberPoints]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Members]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Members_Histories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MembersOfMemberTags]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberTagCondition]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberTagOfActivityDiscounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberTagOfCoupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberTags]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderReturnDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderStatuses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderUsedCoupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Payments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PointStatuses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductComments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductsOfDealers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductStyles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductTagCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductTagOfActivityDiscounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductTagOfCoupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductTags]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PromotionProductTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SecondCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SkillCourses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Skillcurriculums]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SkillEnrollments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TagOfProducts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TargetTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ThirdCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ThirdCategoryOfActivityDiscounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ThirdCategoryOfCoupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TrendingQuestions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TrendingQuestionTypes]",
+         "ObjectType": 0
+      }
+   ],
+
+   "UiHint": "desktop-5lmt80r.Bump.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
